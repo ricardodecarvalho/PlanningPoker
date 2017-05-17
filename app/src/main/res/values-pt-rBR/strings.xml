@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Planning Poker</string>
+    <string name="menu_about">Sobre</string>
+    <string name="text_about">"Planning Poker faz parte de um projeto pessoal para estudo de desenvolvimento Android. "</string>
+    <string name="text_coffee">Café</string>
+    <string name="text_its_free">É gratuito e sempre será!</string>
+    <string name="text_enjoy">Aproveite.</string>
+</resources>
